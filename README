@@ -1,0 +1,6 @@
+VS Code Extension uninstaller.
+
+This script will parse the common directory and list
+all of the extensions installed on that machine.
+
+Allows selection(s) and confirmation before uninstalling.
